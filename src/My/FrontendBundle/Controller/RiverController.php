@@ -13,7 +13,6 @@ use My\FrontendBundle\Form\RiverType;
 /**
  * River controller.
  *
- * @Route("/river")
  */
 class RiverController extends Controller
 {
