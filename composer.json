@@ -17,7 +17,10 @@
         "sensio/framework-extra-bundle": "2.1.*",
         "sensio/generator-bundle": "2.1.*",
         "jms/security-extra-bundle": "1.2.*",
-        "jms/di-extra-bundle": "1.1.*"
+        "jms/di-extra-bundle": "1.1.*",
+        "doctrine/doctrine-fixtures-bundle": "dev-master",
+        "stof/doctrine-extensions-bundle": "dev-master",
+        "gedmo/doctrine-extensions":      "master-dev"
     },
     "scripts": {
         "post-install-cmd": [
