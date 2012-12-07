@@ -1,2 +1,6 @@
 1. Instalacja dodanych pakietów:
     composer update
+
+2. Instalacja jednego pakietu:
+    composer update friendsofsymfony/user-bundle
+
