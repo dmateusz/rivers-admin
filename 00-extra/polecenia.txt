@@ -11,7 +11,10 @@
 
 .../web/app_dev.php/hello/lorem
 
-5.
+5. Tworzenie klasy dostępu do bazy danych:
 
 php app/console generate:doctrine:entity
 
+6. Aktualizacja bazy
+
+php app/console doctrine:schema:update --force
