@@ -6,3 +6,7 @@
 
 
 3. php app/console generate:bundle --namespace=My/FrontendBundle --dir=src --no-interaction
+
+4. Adres:
+
+.../web/app_dev.php/hello/lorem
