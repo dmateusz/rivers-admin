@@ -4,3 +4,5 @@
 2. Instalacja jednego pakietu:
     composer update friendsofsymfony/user-bundle
 
+
+3. php app/console generate:bundle --namespace=My/FrontendBundle --dir=src --no-interaction
