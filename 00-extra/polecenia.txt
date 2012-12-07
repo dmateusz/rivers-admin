@@ -18,3 +18,7 @@ php app/console generate:doctrine:entity
 6. Aktualizacja bazy
 
 php app/console doctrine:schema:update --force
+
+7. Generowanie CRUD
+
+php app/console doctrine:generate:crud
