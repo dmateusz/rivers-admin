@@ -5,9 +5,15 @@
         <title>{% block title %}Welcome!{% endblock %}</title>
         {% block stylesheets %}{% endblock %}
         <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+        <link rel="stylesheet" href="{{ asset('css/style.css') }}" />
     </head>
     <body>
+
+    <div id="pojemnik">
         {% block body %}{% endblock %}
         {% block javascripts %}{% endblock %}
+        <div id="stopka"></div>
+    </div>
+
     </body>
 </html>
