@@ -10,3 +10,8 @@
 4. Adres:
 
 .../web/app_dev.php/hello/lorem
+
+5.
+
+php app/console generate:doctrine:entity
+
